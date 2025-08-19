@@ -1,6 +1,6 @@
 # Playwright Test Automation Framework
 
-![Playwright Logo](https://placehold.co/600x200?text=Playwright+Automation&font=roboto)
+# ![Playwright Logo](https://playwright.dev/img/playwright-logo.svg) 
 
 A robust test automation framework built with Playwright for web application testing. 
 This project demonstrates advanced automation techniques including dynamic element handling, cross-browser testing, and comprehensive reporting.
