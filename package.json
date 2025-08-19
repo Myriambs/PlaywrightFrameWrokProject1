@@ -1,0 +1,19 @@
+{
+  "name": "youtubeplaywright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test  --headed",
+    "start": "npm run test  ",
+    "view": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.10.6",
+    "allure-playwright": "^3.1.0"
+  }
+}
